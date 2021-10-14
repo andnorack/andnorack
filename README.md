@@ -1,4 +1,4 @@
-# :shipit: About me
+# 🐱‍👤 About me
 
 I am a student, developer, pentester and security researcher. In my spare time i train iaido. I love japanese culture !
 
