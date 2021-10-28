@@ -1,7 +1,8 @@
+![gif header](https://i.pinimg.com/originals/f5/5b/0f/f55b0f3e0d9b878ed9192b8358fd1480.gif)
+
 # 🐱‍👤 About me
 
 I am a student, developer, pentester and security researcher. In my spare time i train iaidô. I love japanese culture !
-
 
 <div align="center">
   <a href="https://github.com/andnorack">
