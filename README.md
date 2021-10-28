@@ -1,6 +1,6 @@
 ![gif header](https://github.com/andnorack/andnorack/blob/main/img1.gif?raw=true)
 
-# 🐱‍👤 About me
+# 🟣 About me
 
 ```
 I am a student, developer, pentester and security researcher. In my spare time i train iaidô. I love japanese culture !
