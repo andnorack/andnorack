@@ -3,7 +3,7 @@
 # 🟣 whoami
 
 ```
-I am a student, developer and pentester. In my spare time i play league of legends. I love hacking culture!
+I am a student, developer and pentester. I love hacking culture!
 ```
 
 <div align="center">
