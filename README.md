@@ -21,7 +21,7 @@ I am 23 years old, I study Computer Science & do Bug Bounty as a side activity.
 
 ### Hobbies
 - 🔰 Read About Bug Bounty
-- 🔰 Explore Foruns
+- 🔰 Explore The Internet
 - 🔰 Watching Anime
 
 <br>
