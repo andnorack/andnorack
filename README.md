@@ -7,10 +7,10 @@ I am 23 years old, I study Computer Science & do Bug Bounty as a side activity.
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/andnorack/andnorack/blob/main/img1.gif?raw=true">
 
 ### Skills
-- 🔰 Bug Bounty         **+ +**
-- 🔰 Webapp Pentesting  **+ + +**
-- 🔰 Mobile Pentesting  **+ +**
-- 🔰 Network Pentesting **+ +**
+- 🔰 Bug Bounty         **🟣 🟣**
+- 🔰 Webapp Pentesting  **🟣 🟣 🟣**
+- 🔰 Mobile Pentesting  **🟣 🟣**
+- 🔰 Network Pentesting **🟣 🟣**
 
 ### Learning
 - 🔰 Computer Science
