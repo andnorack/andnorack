@@ -1,4 +1,4 @@
-## 📌 whoami
+## 🟣 whoami
 
 ```
 I am 23 years old, I study Computer Science & do Bug Bounty as a side activity.
