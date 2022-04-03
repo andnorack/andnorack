@@ -16,9 +16,9 @@ I am 23 years old, I study Computer Science & do Bug Bounty as a side activity.
 ### Learning
 - 🔰 Computer Science
 - 🔰 Bug Bounty
+- 🔰 Network Pentesting
 - 🔰 Webapp Pentesting
 - 🔰 Mobile Pentesting
-- 🔰 Network Pentesting
 
 ### Hobbies
 - 🔰 Read About Bug Bounty
