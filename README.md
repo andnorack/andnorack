@@ -7,10 +7,10 @@ I study Computer Science & do Bug Bounty as a side activity.
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/andnorack/andnorack/blob/main/img1.gif?raw=true">
 
 ### Skills
-- 🔰 Network Pentesting **🟣 🟣 🟣 ⚫ ⚫**
-- 🔰 Webapp Pentesting  **🟣 🟣 🟣 ⚫ ⚫**
-- 🔰 Mobile Pentesting  **🟣 🟣 ⚫ ⚫ ⚫**
-- 🔰 Bug Bounty         **🟣 🟣 ⚫ ⚫ ⚫**
+- 🔰 Network Pentesting
+- 🔰 Webapp Pentesting
+- 🔰 Mobile Pentesting
+- 🔰 Bug Bounty
 
 
 ### Learning
